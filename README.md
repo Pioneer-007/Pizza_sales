@@ -6,16 +6,17 @@
 - [Data Sources](#data-source)
 - [Recommendations](#recommendations)
 ### Project Overview
+---
 This data analysis project aims at providing insights insight into the sales performance of a company over the past years, by analyzing various aspects of the pizza sales data , we seek to calculate profits, identify trends and make data driven recommendation for decision in the future.
 ![pizza_sales dashboard](https://github.com/Pioneer-007/Pizza_sales/assets/104790576/3379b6e0-a257-4a59-8bbe-6cdaafa19dc3)
 
 
 
-### Data Source
+### **Data Source**
 
 Ths primary dataset used for this analysis is the "pizza_sales.csv" it contains detailed information about the sales made by the company.
 
-### Tools
+### *Tools*
 - Excel - Data Cleaning and Visualization.
     - [Download Here](https://microsoft.com)
 - SQL Server - Data Analysis.
@@ -29,7 +30,7 @@ In the initial data preparation phrase ,we performed the following tasks:
 
 
 ### Exploratory Data Analysis
-Exploring the pizza sales data to answer key question such as:
+**Exploring the pizza sales data to answer key question such as:**
 - What is the total revenue ?
 - what is the total pizza sold ?
 - what is the total and average pizza per order ?
@@ -93,10 +94,15 @@ we had to get the daily trend form the order_id and pizza_id was not used.
 ### References
 - sql for business
 
+😄
 
+🍕
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|Excel|SQL Server|
 
-
-
+`thank_you`
 
 
 
