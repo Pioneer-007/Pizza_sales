@@ -7,6 +7,9 @@
 - [Recommendations](#recommendations)
 ### Project Overview
 This data analysis project aims at providing insights insight into the sales performance of a company over the past years, by analyzing various aspects of the pizza sales data , we seek to calculate profits, identify trends and make data driven recommendation for decision in the future.
+![pizza_sales dashboard](https://github.com/Pioneer-007/Pizza_sales/assets/104790576/3379b6e0-a257-4a59-8bbe-6cdaafa19dc3)
+
+
 
 ### Data Source
 
