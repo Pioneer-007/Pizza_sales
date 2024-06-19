@@ -3,7 +3,8 @@
 ## Table of Content
 
 - [Project Overview](#project-overview)
-
+- [Data Sources](#data-source)
+- [Recommendations](#recommendations)
 ### Project Overview
 This data analysis project aims at providing insights insight into the sales performance of a company over the past years, by analyzing various aspects of the pizza sales data , we seek to calculate profits, identify trends and make data driven recommendation for decision in the future.
 
