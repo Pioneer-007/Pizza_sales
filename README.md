@@ -14,7 +14,7 @@ This data analysis project aims at providing insight into the sales performance 
 
 ### **Data Source**
 
-Ths primary dataset used for this analysis is the "pizza_sales.csv" it contains detailed information about the sales made by the company.
+This primary dataset used for this analysis is the "pizza_sales.csv" it contains detailed information about the sales made by the company.
 
 ### *Tools*
 - Excel - Data Cleaning and Visualization.
